@@ -255,6 +255,11 @@ header
   color: #1e1e1e!important;
 }
 
+#logo {
+  width: 150px;
+  height: 90px;
+}
+
 .background-header .main-nav .nav li:hover a {
   color: #ffcb00!important;
 }
